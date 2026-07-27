@@ -1,0 +1,28 @@
+
+// Colors
+$main-color: var(--color-primary);
+$infinte-color: var(--infinte-color);
+$main-text-color: var(--main-text-color);
+
+:root {
+  --infinte-color: #c9c9c9;
+  --main-text-color: #1f2937;
+  --main-text-color-dark: #2b2d34;
+
+  /* Nova brand palette */
+  --color-primary: #0f766e;
+  --color-primary-d: #0b3b36;
+  --color-primary-l: #14b8a6;
+  --color-primary-reverse: #0891b2;
+  --color-text: #4b5563;
+  --bg-gray: #c6c7ce1a;
+  --color-grey: #f5f7f9;
+  --color-light-grey: #eeeeee;
+  /* font-size */
+  --font-sm: 0.8685714286rem;
+  /* font-family: ; */
+  --font-main: "DINNextLTArabic";
+
+  /* plugins */
+  --mm-ocd-width: calc(100% - 51px);
+}
